@@ -23,7 +23,7 @@ mysqlclient==2.1.1
 protobuf==3.20.3
 pydantic==1.10.7
 pydub==0.25.1
-pypiwin32==223
+pypiwin32==305
 pyttsx3==2.90
 pywin32==223
 requests==2.30.0
